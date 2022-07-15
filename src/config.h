@@ -1,0 +1,16 @@
+#define HAVE_INTTYPES_H 1
+#define HAVE_LIBSDL 1
+#define HAVE_MEMORY_H 1
+#define HAVE_SDL_H 1
+#define HAVE_STDBOOL_H 1
+#define HAVE_STDINT_H 1
+#define HAVE_STDLIB_H 1
+#define HAVE_STRCASECMP 1
+#define HAVE_STRING_H 1
+#define HAVE_SYS_STAT_H 1
+#define HAVE_SYS_TYPES_H 1
+#define HAVE_UNISTD_H 1
+#define STDC_HEADERS 1
+#define USE_HWSDL1 1
+#define HAVE_SDL1MIXER 1
+#define PACKAGE_NAME "1oom"
